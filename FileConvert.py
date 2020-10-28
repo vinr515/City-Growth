@@ -122,7 +122,9 @@ def search_abbrs(abbrs, word):
     return None
 
 def merge_tables(table, indexes):
-    """Merges tables. First column has to have the same values"""
+    """Merges tables. First column has to have the same values. This would be used
+if one table has A values for every X, and a second has B values. This returns
+one table with A and B values for every X. """
     lines = {}
     header = []
     for i in indexes:
@@ -177,13 +179,21 @@ def convert_pdf(fileName):
     text = clean_file(read)
     table = to_table(text)
     table = create_table(table, text)
-    table = auto_merge(table)
-    output_headers(table)
-    indexes = get_merge_indexes()
-    table = manual_merge(table, indexes)
+    #table = auto_merge(table)
+    #output_headers(table)
+    #indexes = get_merge_indexes()
+    #table = manual_merge(table, indexes)
     
     output_headers(table)
     table = get_header_indexes(table)
+
+    table = auto_merge(table)
+    output_headers(table)
+    indexes = get_merge_indexes()
+    print(indexes)
+    if(indexes):
+        table = manual_merge(table, indexes)
+    
     abbrs = get_abbrs(text)
 
     return table, abbrs

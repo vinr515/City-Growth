@@ -25,23 +25,23 @@ West Virginia).
 
 ## Steps
  - [ ] Find sources from the Census Bureau that have relevant information
-   - [ ] 1a. Find files with populations of states from recent times 
+   - [ ] Find files with populations of states from recent times 
 (2010 and 2000 census).
-   - [ ] 1b. Find information about counties and cities. 
-   - [ ] 1c. Find more information. 
-   - [ ] 1d. Find information for older censuses. 
- - [ ] 2. Convert sources to easily readable data files. 
-   - [ ] 2a. Export (if possible) files to .csv or .txt
-   - [ ] 2b. Remove any unnecessary information, like population estimates. 
+   - [ ] Find information about counties and cities. 
+   - [ ] Find more information. 
+   - [ ] Find information for older censuses. 
+ - [ ] Convert sources to easily readable data files. 
+   - [ ] Export (if possible) files to .csv or .txt
+   - [ ] Remove any unnecessary information, like population estimates. 
 Our project will try to use facts, and not projections. 
-   - [ ] 2c. Convert any and all .pdf files to .csv files
- - [ ] 3. Explore the data. 
-   - [ ] 3a. Find out what variables relate to each other. 
-   - [ ] 3b. Try to represent the same data in different ways. 
-   - [ ] 3c. Find out which variables are irrelevant. 
- - [ ] 4. Create models. 
-   - [ ] 4a. Create a population model.
- - [ ] 4b. There might be different models for cities and states
+   - [ ] Convert any and all .pdf files to .csv files
+ - [ ] Explore the data. 
+   - [ ] Find out what variables relate to each other. 
+   - [ ] Try to represent the same data in different ways. 
+   - [ ] Find out which variables are irrelevant. 
+ - [ ] Create models. 
+   - [ ] Create a population model.
+   - [ ] There might be different models for cities and states
 or the same model. 
 
 ## Directory
