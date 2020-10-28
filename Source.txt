@@ -1,0 +1,8 @@
+1990-State-Poverty.csv: https://www2.census.gov/library/publications/decennial/1990/cph-l/cph-l-108.pdf
+https://www.census.gov/data/tables/time-series/dec/cph-series/cph-l/cph-l-108.html
+2000-All-Population.csv:
+https://www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html
+Future (1990-City-Poverty.csv):
+https://www.census.gov/data/tables/time-series/dec/cph-series/cph-l/cph-l-109.html
+Future (1990-County-Poverty.csv):
+https://www.census.gov/data/tables/time-series/dec/cph-series/cph-l/cph-l-106.html
