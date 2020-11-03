@@ -2,7 +2,69 @@
 https://www.census.gov/data/tables/time-series/dec/cph-series/cph-l/cph-l-108.html
 2000-All-Population.csv:
 https://www.census.gov/data/tables/time-series/demo/popest/pre-1980-national.html
-Future (1990-City-Poverty.csv):
+1990-City-Poverty.csv:
 https://www.census.gov/data/tables/time-series/dec/cph-series/cph-l/cph-l-109.html
-Future (1990-County-Poverty.csv):
-https://www.census.gov/data/tables/time-series/dec/cph-series/cph-l/cph-l-106.html
+1990-Metro-Population.csv*:
+https://www.census.gov/data/tables/2000/dec/phc-t-03.html
+Table 2
+1990-County-Population.csv:
+https://www.census.gov/data/tables/2000/dec/phc-t-04.html
+Table 1
+PAST-State-Poverty.csv:
+https://www.census.gov/data/tables/time-series/dec/cph-series/cph-l/cph-l-162.html
+PAST-County-Poverty.csv:
+https://www.census.gov/data/tables/time-series/dec/census-poverty.html
+1990-State-Income.csv:
+https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-income-households.html
+Table H-8. Measures Household Income. Standard Error of $1715. All numbers are 2019 dollars.
+
+*Also Contains 2000 data
+---Future Section--- 
+PAST represents any census years before 1990. 
+Table Description Word List:
+Population: Number of people in an area
+Poverty: Relations with people and the poverty line in areas
+Income: Household, family, or individual income. 
+Industry: Business, other NAICS statistics
+Education: Schools, graduates, etc.
+
+Future (1990-County-Income.csv):
+https://www.census.gov/data/tables/time-series/dec/cph-series/cph-l/cph-l-123.html
+Future (1990-State-Income.csv):
+https://www.census.gov/data/tables/time-series/dec/cph-series/cph-l/cph-l-122.html
+Future (1990-Metro-Income.csv):
+https://www.census.gov/data/tables/time-series/dec/cph-series/cph-l/cph-l-124.html
+Future (1990-City-Income.csv):
+https://www.census.gov/data/tables/time-series/dec/cph-series/cph-l/cph-l-126.html
+https://www.census.gov/data/tables/time-series/dec/cph-series/cph-l/cph-l-127.html
+https://www.census.gov/data/tables/time-series/dec/cph-series/cph-l/cph-l-128.html
+https://www.census.gov/data/tables/time-series/dec/cph-series/cph-l/cph-l-129.html
+Future (PAST-State-Income.csv):
+https://www.census.gov/data/tables/time-series/dec/historical-income-states.html
+Future (PAST-County-Income.csv):
+https://www.census.gov/data/tables/time-series/dec/historical-income-counties.html
+
+(2000-SCP-Unemployment):
+https://www.census.gov/data/tables/2000/dec/phc-t-28.html
+
+Future (2000-SM-Industry.csv):
+https://www.census.gov/data/datasets/2000/econ/susb/2000-susb.html
+(2000-State-Industry.csv):
+https://www.census.gov/data/tables/time-series/econ/susb/susb-historical.html
+(2000-Place-Workers.csv):
+https://www.census.gov/data/tables/2000/dec/phc-t-40.html
+
+(PAST-State-Housing.csv):
+https://www.census.gov/data/tables/time-series/dec/coh-ownerchar.html
+https://www.census.gov/content/census/en/topics/housing/data/tables.2000.html/
+(2000-SCMP-Income.csv), (2000-SCMP-Poverty.csv), (2000-SCMP-Housing.csv):
+https://www.census.gov/prod/www/decennial.html
+
+Future (2000-State-Education.csv):
+https://www.census.gov/data/tables/2000/dec/phc-t-39.html
+
+Future (PAST-State-Superpoor.csv):
+https://www.census.gov/content/census/en/data/tables/time-series/dec/cph-series/cph-l/cph-l-164.html
+
+Future (PAST-County-Population.csv):
+https://www.census.gov/data/tables/time-series/dec/census-poverty.html
